@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/number1"
+        android:title="number1"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_launcher"
+        ></item>
+    <item android:id="@+id/number2"
+        android:title="number2"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_launcher"
+        ></item>
+    <item android:id="@+id/number3"
+        android:title="number3"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_launcher"
+        
+        ></item>
+    <item android:id="@+id/number3"
+        android:title="number3"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_launcher"
+        
+        ></item>
+    
+	
+</menu>

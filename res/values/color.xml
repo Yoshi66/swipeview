@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "main_color">#fa8072</color>
+    <color name = "sub_color">#e0ffff</color>
+    <color name = "third_color">#ff6347</color>
+</resources>
